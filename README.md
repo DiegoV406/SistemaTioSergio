@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1024" height="1024" alt="Caixa de Autopeças Tio Sérgio" src="https://github.com/user-attachments/assets/d1e71353-86a4-487b-abd7-aaf2b1976d30" />
+<img width="500" height="500" alt="Caixa de Autopeças Tio Sérgio" src="https://github.com/user-attachments/assets/ff8f8dae-c219-486a-9579-e457e15c1673" />
 </div>
 
 🔧 Sistema de Gestão - Autopeças Tio Sergio

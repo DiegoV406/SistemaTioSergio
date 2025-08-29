@@ -6,6 +6,8 @@
 
 📦 Projeto desenvolvido em Java 17 com MySQL para gerenciar usuários, fornecedores, produtos, estoque e vendas em uma autopeças.
 
+⌛⏳ Status do Projeto (em desenvolvimento)
+
 🚀 Funcionalidades
 
 O sistema oferece as seguintes operações:
